@@ -1,0 +1,16 @@
+server:
+  port: 10086
+spring:
+  application:
+    name: jd-regitry
+eureka:
+  client:
+    # 不拉取服务
+    fetch-registry: false
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    register-with-eureka: false # 不注册自身到eureka中
+  server:
+    wait-time-in-ms-when-sync-empty: 0
+    enable-self-preservation: false
+
