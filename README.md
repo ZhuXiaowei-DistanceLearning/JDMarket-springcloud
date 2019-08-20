@@ -16,7 +16,7 @@ typora-root-url: read
 
 #### 1.2.1 系统架构图
 
-![二手交易市场架构](https://github.com/502513206/JDMarket-springcloud/blob/master/README.assets/二手交易市场架构.png)
+![二手交易市场架构](https://github.com/502513206/JDMarket-springcloud/raw/master/README.assets/二手交易市场架构.png)
 
 #### 1.2.2  系统架构解读
 
